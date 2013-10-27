@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.example"
+        versionCode="10" 
+        version   = "1.0.0">
+
+    <gap:platform name="android" />
+
+    <name>MSHorus</name>
+
+    <description>
+        MS - Ministério da Saúde (DATASUS)
+    </description>
+
+    <author href="https://build.phonegap.com" email="mario.eugenio@bluebile.com">
+        Mário Eugênio
+    </author>
+
+</widget>

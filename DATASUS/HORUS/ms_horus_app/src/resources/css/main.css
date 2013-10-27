@@ -1,0 +1,9 @@
+.inicial
+{
+   background-color: #FFF !important;
+}
+
+.TxPanel .x-scroll-container 
+{ 
+	background: url('../img/inicial.png') repeat center !important; 
+}
